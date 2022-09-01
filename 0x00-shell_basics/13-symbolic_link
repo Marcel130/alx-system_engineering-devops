@@ -1,3 +1,2 @@
 #!/bin/bash
 ln -s /bin/ls  _ _ ls _ _
-Note There should be no space between the underscores
